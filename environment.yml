@@ -1,0 +1,17 @@
+name: thesis_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - gnews==0.2.1
+    - pandas==2.2.2
+    - PyYAML==6.0.1
+    - scikit-learn==1.5.0
+    - xgboost==2.0.3
+    - yfinance==0.2.40
+    - matplotlib==3.9.0
+    - seaborn == 0.13.2
+    - praw
+    - vaderSentiment

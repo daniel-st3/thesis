@@ -1,0 +1,529 @@
+Index,Publisher,Category
+1,"- Center for Democracy and Technology",E
+2,24/7 Wall St.,B
+3,9to5Mac,C
+4,A Wealth of Common Sense,E
+5,ABC Money,G
+6,ABC News,A
+7,ABC15 Arizona,F
+8,ABC7 New York,F
+9,"AFR (Australian Financial Review)",A
+10,AI Business,C
+11,AI at Meta,D
+12,AOL.com,A
+13,"AP News (Associated Press)",A
+14,AZFamily,F
+15,About Amazon,D
+16,About Amazon Europe,D
+17,AdExchanger,B
+18,Adweek,E
+19,Al Jazeera,A
+20,AlgorithmWatch,E
+21,AlphaStreet,B
+22,Amazon Frontlines,D
+23,Amazon Sustainability,D
+24,"Amazon Web Services (AWS)",D
+25,American Hospital Association,E
+26,American University,E
+27,Amnesty International,E
+28,Analytics Insight,B
+29,Android Authority,C
+30,Anduril,D
+31,AppleInsider,C
+32,Ark Invest,E
+33,Arnold & Porter,D
+34,As You Sow,E
+35,AskTraders.com,B
+36,Axios,A
+37,BBC,A
+38,"BMC Medical Research Methodology",E
+39,BNN Bloomberg,A
+40,BOMB Magazine,E
+41,Babson College,E
+42,Balkan Insight,E
+43,Bankrate,B
+44,Barchart.com,B
+45,Barron's,B
+46,"Baton Rouge Business Report",F
+47,Benzinga,B
+48,Biometric Update,C
+49,Bitcoinist.com,C
+50,Bloomberg,B
+51,BoiseDev,F
+52,"Boy Genius Report (BGR)",C
+53,Breaking Defense,C
+54,Broadcom,D
+55,"Brookings (Brookings Institution)",E
+56,Built In,C
+57,BullionVault,B
+58,Business Insider,B
+59,Business Wire,D
+60,CBS News,A
+61,CCN.com,G
+62,CFO Dive,B
+63,CIO Dive,B
+64,CNBC,A
+65,CNET,C
+66,CNN,A
+67,Cabot Wealth Network,B
+68,CalMatters,F
+69,Campaign Asia,E
+70,Campaign Legal Center,E
+71,Canary Media,E
+72,Cantech Letter,C
+73,Capital.com,B
+74,CarbonCredits.com,G
+75,Carnegie Mellon University,E
+76,Cato Institute,E
+77,Center for Data Innovation,E
+78,ChannelE2E,C
+79,Charter Communications,D
+80,Cisco Newsroom,D
+81,"City of Tucson (.gov)",D
+82,CleanTechnica,C
+83,Cleveland Clinic Newsroom,D
+84,CoStar,B
+85,CoinCentral,C
+86,CoinDesk,C
+87,CoinGape,C
+88,Cointelegraph,C
+89,Columbia Business Report,F
+90,Columbia Journalism Review,E
+91,Competitive Enterprise Institute,E
+92,Computer Weekly,C
+93,Computerworld,C
+94,"Congressman Tim Walberg",E
+95,"Congresswoman Pramila Jayapal (.gov)",E
+96,Conservation International,E
+97,Construction Dive,D
+98,"Context News (Thomson Reuters Foundation)",E
+99,Cornell Chronicle,E
+100,Courthouse News,D
+101,Crunchbase News,C
+102,Crypto News,C
+103,Cult of Mac,C
+104,CyberScoop,C
+105,Cyprus Mail,F
+106,"DW (Deutsche Welle)",A
+107,Dark Reading,C
+108,Data Center Dynamics,C
+109,DataDrivenInvestor,B
+110,Detroit Free Press,F
+111,Deutsche Telekom Group,D
+112,Digiday,E
+113,"Digital Commerce 360",G
+114,DirectorsTalk Interviews,B
+115,"District of Columbia (.gov)",D
+116,"E&E News by POLITICO",E
+117,ERP Today,G
+118,ESG Dive,G
+119,ESG Today,G
+120,ESPN,G
+121,ESPN Front Row,G
+122,ETF Database,B
+123,ETF Stream,B
+124,ETF Trends,B
+125,ETF.com,B
+126,EconoTimes,B
+127,Economies.com,G
+128,Electrek,C
+129,"Electronic Frontier Foundation (EFF)",E
+130,Engadget,C
+131,Engineering at Meta,D
+132,Entergy Newsroom,D
+133,Entrepreneur,B
+134,Euractiv,E
+135,Euronews.com,A
+136,FBC News,F
+137,"FIU News (Florida International University)",E
+138,FXEmpire,B
+139,FXLeaders,G
+140,FXStreet,B
+141,FactCheck.org,E
+142,Fast Company,E
+143,Fierce Healthcare,G
+144,Finance Magnates,B
+145,FinanceFeeds,G
+146,Financial Times,A
+147,FinancialContent,G
+148,Finbold,B
+149,Fingerlakes1.com,F
+150,Finimize,B
+151,Food Business News,G
+152,"Fool UK (The Motley Fool UK)",B
+153,Forbes,A
+154,Forexlive,B
+155,Forrester,E
+156,Fort Worth Inc.,F
+157,Fort Worth Magazine,F
+158,Fort Worth Star-Telegram,F
+159,Fortune,A
+160,Fox Business,A
+161,Fox News,A
+162,Free Malaysia Today,F
+163,FreightWaves,B
+164,Frontiers,E
+165,GLAAD,E
+166,GeekWire,C
+167,George Mason University,E
+168,Gizmodo,C
+169,Global Investigative Journalism Network,E
+170,Global Witness,E
+171,GlobeNewswire,D
+172,Google Blog,D
+173,"GovTech (Government Technology)",E
+174,Grocery Dive,G
+175,GuruFocus,B
+176,HR Brew,G
+177,HR Grapevine,G
+178,"HRC (Human Rights Campaign)",E
+179,Harvard Gazette,E
+180,"Harvard T.H. Chan School of Public Health",E
+181,Healthcare Dive,G
+182,Hedgeye,G
+183,Hello Partner,D
+184,Houston Public Media,F
+185,How-To Geek,C
+186,Hyperallergic,G
+187,"IAPP (International Association of Privacy Professionals)",E
+188,IEEE Spectrum,C
+189,INDODAX,G
+190,IT Pro,C
+191,Illinois Institute of Technology,E
+192,Inc.com,B
+193,"Information Technology and Innovation Foundation (ITIF)",E
+194,Inside INdiana Business,F
+195,Insider Financial,G
+196,Insider Monkey,G
+197,InsuranceNewsNet,B
+198,Intel Newsroom,D
+199,International Brotherhood of Teamsters,E
+200,International Business Times UK,A
+201,"International Consortium of Investigative Journalists - ICIJ",E
+202,International Republican Institute,E
+203,Intuit,D
+204,Investing.com,B
+205,"Investing.com Australia",G
+206,InvestingCube,G
+207,InvestmentNews,G
+208,Investopedia,B
+209,"Investor's Business Daily",B
+210,InvestorPlace,G
+211,Investorsobserver,G
+212,Islamic Finance Guru,G
+213,Jacksonville Journal-Courier,F
+214,Jungle Scout,G
+215,Just Security,E
+216,"KEYE (CBS Austin)",F
+217,"KING5.com (NBC Seattle)",F
+218,"KNOE (CBS/ABC Monroe, LA)",F
+219,"KRON4 (San Francisco)",F
+220,"KTVU (Fox San Francisco)",F
+221,Kiplinger,B
+222,LPL Financial,B
+223,Lakeshore Public Media,F
+224,Laptop Mag,C
+225,Latest news from Azerbaijan,F
+226,Law360,E
+227,"Lawyers' Committee for Civil Rights Under Law",E
+228,Lenovo StoryHub,D
+229,Lifehacker,C
+230,LiveNOW from FOX,A
+231,Lockheed Martin,D
+232,Los Angeles Times,A
+233,"Louisiana Economic Development (.gov)",D
+234,Louisiana Illuminator,F
+235,Lumen Technologies,D
+236,MIT Technology Review,C
+237,MSDynamicsWorld.com,G
+238,MSN,A
+239,MSNBC News,A
+240,MSSP Alert,G
+241,"MSUToday (Michigan State University)",E
+242,MacDailyNews,C
+243,MacTrast,C
+244,Maginative,C
+245,Malwarebytes,D
+246,MarTech,G
+247,MarketBeat,B
+248,MarketWatch,B
+249,Marketing Brew,G
+250,Marketing Dive,G
+251,Markets.com,G
+252,Mashable,C
+253,MatthewBall.co,E
+254,McNeese State University Athletics,F
+255,Men's Journal,G
+256,Meta Store,D
+257,Mi-3.com.au,F
+258,Michigan State University,E
+259,Microsoft,D
+260,Microsoft Azure,D
+261,Middle East Eye,F
+262,Mitrade,G
+263,MobiHealthNews,G
+264,Money Morning,B
+265,"Money/ US News",A
+266,MoneyCheck,B
+267,Mongabay,E
+268,MoreThanTheCurve,F
+269,Morning Brew,B
+270,Morningstar,B
+271,Morningstar Asia,B
+272,Music Business Worldwide,G
+273,MusicRow.com,G
+274,NBC Bay Area,F
+275,NBC News,A
+276,NBC10 Philadelphia,F
+277,NCAA.org,G
+278,"NCDOJ (.gov)",D
+279,"NPR (National Public Radio)",A
+280,NVIDIA Blog,D
+281,NVIDIA Newsroom,D
+282,NYU Stern,E
+283,Nasdaq,B
+284,National Association of Counties,E
+285,Nature,E
+286,NerdWallet,B
+287,New Jersey Monitor,F
+288,New Scientist,E
+289,New York Magazine,A
+290,New York Post,A
+291,Newsweek,A
+292,Niantic Labs,D
+293,Nieman Lab,E
+294,North Penn Now,F
+295,Northeastern Global News,E
+296,"OCHA (UN Office for the Coordination of Humanitarian Affairs)",E
+297,"Oceana",E
+298,Open Society Foundations,E
+299,"Organized Crime and Corruption Reporting Project",E
+300,Orlando City,G
+301,PBS,A
+302,PCMag,C
+303,"PIRG (Public Interest Research Group)",E
+304,"PNAS (Proceedings of the National Academy of Sciences)",E
+305,POWER Magazine,G
+306,PR Newswire,D
+307,PYMNTS.com,B
+308,Payments Dive,B
+309,Politico,A
+310,Poynter,E
+311,Pratt Institute,E
+312,Proactive Investors,B
+313,Proactive financial news,B
+314,Quartz,A
+315,RWE,D
+316,Radiology Business,G
+317,Real Investment Advice,B
+318,RealClearEnergy,G
+319,ResearchGate,E
+320,Rest of World,C
+321,Reuters,A
+322,Roanoke College,E
+323,Roll Call,E
+324,SAP News Center,D
+325,SC Daily Gazette,F
+326,SCOTUSblog,E
+327,SEC.gov,D
+328,San Francisco Chronicle,F
+329,"Schaeffer's Investment Research",B
+330,ScienceDirect.com,E
+331,Search Engine Land,C
+332,Seattle Public Schools,F
+333,Securities.io,G
+334,Seeking Alpha,B
+335,"Select Committee on the CCP (.gov)",D
+336,Semafor,A
+337,Shacknews,C
+338,Sherwood News,F
+339,Shreveport Times,F
+340,SiliconANGLE,C
+341,Slate Magazine,A
+342,Social Media Today,G
+343,SpaceNews,C
+344,Spencer Fane,E
+345,Stanford Law School,E
+346,"State of California - Department of Justice (.gov)",D
+347,Stateline,E
+348,Statista,E
+349,Stephen F. Austin State University,E
+350,Stock Titan,G
+351,StockNews,B
+352,Stockhouse,B
+353,"Stratechery by Ben Thompson",E
+354,StreetInsider,B
+355,Supply Chain Dive,G
+356,Sure Dividend,B
+357,Sustainability Magazine,G
+358,Sustainalytics,E
+359,"TBIJ (The Bureau of Investigative Journalism)",E
+360,TECHi,C
+361,Tech Policy Press,E
+362,TechCrunch,C
+363,TechRepublic,C
+364,TechStory,C
+365,Technology Magazine,C
+366,Telefónica,D
+367,"Tennessee Secretary of State (.gov)",D
+368,Tesla Oracle,C
+369,Teslarati,C
+370,Texas Woman's University,E
+371,"The Acquirer's Multiple",G
+372,The American Prospect,E
+373,The Armchair Trader,B
+374,The Atlantic,A
+375,The Block,C
+376,The Bulwark,E
+377,The CFO,B
+378,The Cloudflare Blog,D
+379,The College Today,E
+380,The Conversation,A
+381,The Cool Down,C
+382,The Crypto Basic,C
+383,The Cryptonomist,C
+384,The Daily Hodl,C
+385,The Drum,G
+386,The Earthshot Prize,E
+387,The Economic Times,A
+388,The Economist,A
+389,"The Equation - Union of Concerned Scientists",E
+390,"The Estée Lauder Companies Inc.",D
+391,The Financial Brand,B
+392,The Ghost Howls,G
+393,The Globe and Mail,A
+394,The Guardian,A
+395,The HIPAA Journal,G
+396,The Hacker News,C
+397,The Hill,A
+398,The Hollywood Reporter,G
+399,The Independent Florida Alligator,F
+400,The Information,A
+401,The Intercept,A
+402,"The Leadership Conference on Civil and Human Rights",E
+403,The Motley Fool,B
+404,The Motley Fool Canada,B
+405,The Nature Conservancy,E
+406,The New York Times,A
+407,The Official Microsoft Blog,D
+408,The Oversight Board,E
+409,The Record from Recorded Future News,G
+410,The Rockefeller Foundation,E
+411,The San Francisco Standard,F
+412,The Santa Barbara Independent,F
+413,The Seattle Times,F
+414,The Shortcut,G
+415,The Smart Investor,G
+416,The Sun,A
+417,The Texas Tribune,F
+418,The Times of Israel,F
+419,The Tradable,B
+420,The US Sun,A
+421,The University of Oklahoma,E
+422,The Verge,C
+423,The Washington Post,A
+424,"The Writers' Guild of Great Britain",E
+425,TheStreet,B
+426,TheStreet Pro,B
+427,ThinkGeoEnergy,G
+428,Time Magazine,A
+429,Times of India,A
+430,TipRanks,B
+431,Tokenist,G
+432,Toledo Blade,F
+433,Tom's Guide,C
+434,Tom's Hardware,C
+435,TradingView,B
+436,Transport Topics,G
+437,Trefis,B
+438,Trellis Group,G
+439,Trend Micro,D
+440,Turner Construction Company,D
+441,"U.S. Consumer Product Safety Commission (.gov)",D
+442,"U.S. Senate (.gov)",D
+443,UFC.com,G
+444,"UNEP - UN Environment Programme",E
+445,"UNOS (United Network for Organ Sharing)",E
+446,USA Today,A
+447,USC Annenberg,E
+448,USC Viterbi School of Engineering,E
+449,Unicef,E
+450,University of Arizona News,E
+451,University of Houston,E
+452,UploadVR,C
+453,Urban Land Magazine,G
+454,Utility Dive,G
+455,VICE,A
+456,"VOA - Voice of America English News",A
+457,Value The Markets,G
+458,Vanderbilt University,E
+459,Variety,G
+460,Vatican News,A
+461,VentureBeat,C
+462,Verfassungsblog,E
+463,Vermont Business Magazine,F
+464,"Vinson & Elkins LLP",E
+465,Virginia Mercury,F
+466,Virginia Tech News,E
+467,Visual Capitalist,G
+468,Vogue Business,G
+469,"WFAA (ABC Dallas)",F
+470,"WFYI (NPR/PBS Indianapolis)",F
+471,WIRED,C
+472,"WJBF (ABC Augusta)",F
+473,"WPR (Wisconsin Public Radio)",F
+474,"WSJ (The Wall Street Journal)",A
+475,"WVTM (NBC Birmingham, AL)",F
+476,Wall Street Pit,G
+477,Watcher Guru,G
+478,West Virginia University,E
+479,Westfair Communications,F
+480,Windows Blog,D
+481,World Bank,E
+482,World Bank Blogs,E
+483,World Nuclear News,G
+484,World Resources Institute,E
+485,World Socialist Web Site,A
+486,"World Wildlife Fund (WWF)",E
+487,XR Today,C
+488,XTB.com,B
+489,Yahoo,G
+490,Yahoo Finance,A
+491,Yarrawonga Chronicle,F
+492,ZDNET,C
+493,Zacks Investment Research,B
+494,admiralmarkets.com,G
+495,amazonwatch.org,E
+496,cataudellafh.com,G
+497,cio.com,C
+498,citybiz,F
+499,eMarketer,E
+500,eToro,G
+501,eWEEK,C
+502,eastgatefuneral.com,G
+503,eos.org,E
+504,financialexpress.com,A
+505,finchannel,G
+506,fox8live.com,F
+507,home.saxo,G
+508,ig.com,G
+509,marketech apac,G
+510,marketpulse.com,G
+511,markets.businessinsider.com,G
+512,moneyshow.com,G
+513,news.stocktradersdaily.com,G
+514,noyb.eu,E
+515,nwitimes.com,F
+516,patentlyapple.com,G
+517,politico.eu,A
+518,simplywall.st,G
+519,statnews.com,E
+520,substack.com,G
+521,tastylive,G
+522,theafricalogistics.com,G
+523,theregister.com,C
+524,topnews.in,F
+525,wiz.io,G
+526,wwf.org.uk,E
+527,"آي-فون إسلام (iPhone Islam)",G
+528,"التكرار Placeholder (not a real publisher)",G

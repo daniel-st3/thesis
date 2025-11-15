@@ -1,0 +1,555 @@
+Index,Publisher,Category,MBFC_Bias
+1,24/7 Wall St.,B,Least Biased
+2,9to5Mac,C,Least Biased
+3,A Wealth of Common Sense,E,Questionable
+4,ABC Money,G,Left-Center
+5,ABC News,A,Left-Center
+6,ABC15 Arizona,F,Left-Center
+7,ABC7 New York,F,Left-Center
+8,About Amazon,D, Corporate_Blog
+9,About Amazon Europe,D,Corporate_Blog
+10,AdExchanger,B,Questionable
+11,admiralmarkets.com,B,Questionable
+12,Adweek,E,Least Biased
+13,AFR,A,Right-Center
+14,AFR (Australian Financial Review),A,Questionable
+15,AI at Meta,D,Corporate_Blog
+16,AI Business,C,Pro-Science
+17,Al Jazeera,A,Left-Center
+18,AlgorithmWatch,E,Left-Center
+19,AlphaStreet,B,Least Biased
+20,Amazon Frontlines,D,Corporate_Blog
+21,Amazon Sustainability,D,Corporate_Blog
+22,Amazon Web Services (AWS),D,Corporate_Blog
+23,amazonwatch.org,E,Questionable
+24,American Hospital Association,E,Questionable
+25,American University,E,Questionable
+26,Amnesty International,E,Left-Center
+27,Analytics Insight,B,Questionable
+28,Android Authority,C,Least Biased
+29,Anduril,D,Corporate_Blog
+30,AOL.com,A,Left-Center
+31,AP News,A,Least Biased
+32,AP News (Associated Press),A,Questionable
+33,AppleInsider,C,Least Biased
+34,Ark Invest,E,Questionable
+35,Arnold & Porter,D,Corporate_Blog
+36,As You Sow,E,Left
+37,AskTraders.com,B,Questionable
+38,Axios,A,Left-Center
+39,AZFamily,F,Least Biased
+40,Babson College,E,Questionable
+41,Balkan Insight,E,Left-Center
+42,Bankrate,B,Questionable
+43,Barchart.com,B,Questionable
+44,Barron's,B,Right-Center
+45,Baton Rouge Business Report,F,Least Biased
+46,BBC,A,Left-Center
+47,Benzinga,B,Least Biased
+48,Biometric Update,C,Least Biased
+49,Bitcoinist.com,H,Questionable
+50,Bloomberg,B,Left-Center
+51,BMC Medical Research Methodology,E,Pro-Science
+52,BNN Bloomberg,A,Left-Center
+53,BoiseDev,F, Least Biased
+54,BOMB Magazine,E,Questionable
+55,Boy Genius Report, ,Questionable
+56,Breaking Defense,G,Pro-Science
+57,Broadcom,D,Corporate_Blog
+58,Brookings, , Left-Center
+59,Brookings (Brookings Institution),E,Questionable
+60,Built In,C,Pro-Science
+61,BullionVault,B,Questionable
+62,Business Insider,B,Left-Center
+63,Business Wire,D, Corporate_Blog
+64,Cabot Wealth Network,B,Questionable
+65,CalMatters,F,Least Biased
+66,Campaign Asia,E,Questionable
+67,Campaign Legal Center,E,Questionable
+68,Canary Media,E,Left-Center
+69,Cantech Letter,C, Questionable
+70,Capital.com,B,Right-Center
+71,CarbonCredits.com,G,Questionable
+72,Carnegie Mellon University,E,Questionable
+73,cataudellafh.com,G,Questionable
+74,Cato Institute,E,Right-Center
+75,CBS News,A,Left-Center
+76,CCN.com,H,Questionable
+77,Center for Data Innovation,E,Questionable
+78,Center for Democracy and Technology,E,Questionable
+79,CFO Dive,B,Least Biased
+80,ChannelE2E,C,Pro-Science
+81,Charter Communications,D,Corporate_Blog
+82,CIO Dive,B,Least Biased
+83,cio.com,C, Pro-Science
+84,Cisco Newsroom,D,Least Biased
+85,City of Tucson (.gov),D,Least Biased
+86,citybiz,F, Least Biased
+87,CleanTechnica,C,Least Biased
+88,Cleveland Clinic Newsroom,D,Corporate_Blog
+89,CNBC,A,Left-Center
+90,CNET,C,Least Biased
+91,CNN,A,Left-Center
+92,CoinCentral,H,Least Biased
+93,CoinDesk,H,Least Biased
+94,CoinGape,H,Least Biased
+95,Cointelegraph,H,Least Biased
+96,Columbia Business Report,F,Least Biased
+97,Columbia Journalism Review,E,Left-Center
+98,Competitive Enterprise Institute,E,Questionable
+99,Computer Weekly,C,Least Biased
+100,Computerworld,C,Least Biased
+101,Congressman Tim Walberg,E,Questionable
+102,Congressman Tim Walberg | (.gov),D,Right
+103,Congresswoman Pramila Jayapal (.gov),E,Questionable
+104,Conservation International,E,Questionable
+105,Construction Dive,G,Least Biased
+106,Context News,E,Least Biased
+107,Context News (Thomson Reuters Foundation),E,Questionable
+108,Cornell Chronicle,E,Questionable
+109,CoStar,B,Pro-Science
+110,Courthouse News,G,Least Biased
+111,Crunchbase News,C,Least Biased
+112,Crypto News,H,Least Biased
+113,Cult of Mac,C,Questionable
+114,CyberScoop,C,Pro-Science
+115,Cyprus Mail,F, Right-Center
+116,Dark Reading,C,Pro-Science
+117,Data Center Dynamics,C,Pro-Science
+118,DataDrivenInvestor,B,Questionable
+119,Detroit Free Press,F,Left-Center
+120,Deutsche Telekom Group,D,Corporate_Blog
+121,Digiday,E,Pro-Science
+122,Digital Commerce 360,G, Pro-Science
+123,DirectorsTalk Interviews,B,Questionable
+124,District of Columbia | Attorney General (.gov),D,Questionable
+125,DW,A,Left-Center
+126,DW (Deutsche Welle),A,Left-Center
+127,E&E News by POLITICO,E,Questionable
+128,eastgatefuneral.com,G,Questionable
+129,Economies.com,B, Questionable
+130,EconoTimes,B,Least Biased
+131,Electrek,C,Left-Center
+132,Electronic Frontier Foundation,E,Left-Center
+133,Electronic Frontier Foundation (EFF),E,Questionable
+134,eMarketer,E,Pro-Science
+135,Engadget,C,Least Biased
+136,Engineering at Meta,D,Corporate_Blog
+137,Entergy Newsroom,D,Least Biased
+138,Entrepreneur,B,Right-Center
+139,eos.org,E,Left-Center
+140,ERP Today,C,Pro-Science
+141,ESG Dive,G,Least Biased
+142,ESG Today,G,Left-Center
+143,ESPN,G, Left-Center
+144,ESPN Front Row,D,Corporate_Blog
+145,ETF Database,B,Pro-Science
+146,ETF Stream,B,Pro-Science
+147,ETF Trends,B,Questionable
+148,ETF.com,B,Pro-Science
+149,eToro,B, Questionable
+150,Euractiv,E,Left-Center
+151,Euronews.com,A,Questionable
+152,eWEEK,C,Pro-Science
+153,FactCheck.org,E,Least Biased
+154,Fast Company,E,Left-Center
+155,FBC News,F,Least Biased
+156,Fierce Healthcare,G,Pro-Science
+157,Finance Magnates,B,Questionable
+158,FinanceFeeds,G, Questionable
+159,Financial Times,A,Least Biased
+160,FinancialContent,G,Pro-Science
+161,financialexpress.com,A,Questionable
+162,Finbold,B,Questionable
+163,finchannel,B, Questionable
+164,Fingerlakes1.com,F, Least Biased
+165,Finimize,B,Questionable
+166,FIU News,E,Least Biased
+167,FIU News (Florida International University),E,Questionable
+168,Food Business News,G,Least Biased
+169,Fool UK,B,Questionable
+170,Fool UK (The Motley Fool UK),B,Questionable
+171,Forbes,A,Least Biased
+172,Forexlive,B,Pro-Science
+173,"Forexlive | Forex News, Technical Analysis & Trading Tools",B,Least Biased
+174,Forrester,E,Pro-Science
+175,Fort Worth Inc.,F,Least Biased
+176,Fort Worth Magazine,F,Least Biased
+177,Fort Worth Star-Telegram,F,Right-Center
+178,Fortune,A,Questionable
+179,Fox Business,A,Right-Center
+180,Fox News,A,Questionable
+181,fox8live.com,F, Right-Center
+182,Free Malaysia Today,F,Right-Center
+183,FreightWaves,B,Pro-Science
+184,Frontiers,E,Pro-Science
+185,FXEmpire,B,Questionable
+186,FXLeaders,B,Questionable
+187,FXStreet,B,Pro-Science
+188,GeekWire,C,Pro-Science
+189,George Mason University,E,Questionable
+190,Gizmodo,C, Left-Center
+191,GLAAD,E,Left
+192,Global Investigative Journalism Network,E,Questionable
+193,Global Witness,E,Questionable
+194,GlobeNewswire,D,Least Biased
+195,Google Blog,D,Corporate_Blog
+196,GovTech,G,Least Biased
+197,GovTech (Government Technology),E,Questionable
+198,Grocery Dive,G,Least Biased
+199,GuruFocus,B,Pro-Science
+200,Harvard Gazette,E,Least Biased
+201,Harvard T.H. Chan School of Public Health,E,Questionable
+202,Healthcare Dive,G,Least Biased
+203,Hedgeye,B,Pro-Science
+204,Hello Partner,G,Pro-Science
+205,home.saxo,B,Pro-Science
+206,Houston Public Media,F,Least Biased
+207,How-To Geek,C,Pro-Science
+208,HR Brew,G,Least Biased
+209,HR Grapevine,G,Pro-Science
+210,HRC (Human Rights Campaign),E,Questionable
+211,HRC | Human Rights Campaign,E,Left
+212,Hyperallergic,G, Left
+213,IAPP,E,Pro-Science
+214,IAPP (International Association of Privacy Professionals),E,Questionable
+215,IEEE Spectrum,C,Pro-Science
+216,ig.com,B,Questionable
+217,Illinois Institute of Technology,E,Questionable
+218,Inc.com,B,Questionable
+219,INDODAX,H,Questionable
+220,Information Technology and Innovation Foundation (ITIF),E,Questionable
+221,Inside INdiana Business,F,Least Biased
+222,Insider Financial,B,Least Biased
+223,Insider Monkey,B,Least Biased
+224,InsuranceNewsNet,B,Questionable
+225,Intel Newsroom,D,Least Biased
+226,International Brotherhood of Teamsters,E,Questionable
+227,International Business Times UK,A,Questionable
+228,International Consortium of Investigative Journalists - ICIJ,E,Questionable
+229,International Republican Institute,E,Questionable
+230,Intuit,D, Corporate_Blog
+231,Investing.com,B,Least Biased
+232,Investing.com Australia,F,Questionable
+233,InvestingCube,B,Questionable
+234,InvestmentNews,B,Least Biased
+235,Investopedia,B,Least Biased
+236,Investor's Business Daily,B,Questionable
+237,InvestorPlace,B,Questionable
+238,Investorsobserver,B,Pro-Science
+239,Islamic Finance Guru,G,Pro-Science
+240,IT Pro,C,Pro-Science
+241,Jacksonville Journal-Courier,F,Least Biased
+242,Jungle Scout,D,Corporate_Blog
+243,Just Security,E,Left-Center
+244,KEYE,F,Right-Center
+245,KING5.com,F,Left-Center
+246,Kiplinger,B,Least Biased
+247,KNOE,F,Right-Center
+248,KRON4,F,Left-Center
+249,KTVU,F,Left-Center
+250,Lakeshore Public Media,F,Least Biased
+251,Laptop Mag,C,Least Biased
+252,Latest news from Azerbaijan,F,Questionable
+253,Law360,E,Least Biased
+254,Lawyers' Committee for Civil Rights Under Law,E,Questionable
+255,Lenovo StoryHub,D,Corporate_Blog
+256,Lifehacker,C,Least Biased
+257,LiveNOW from FOX,A,Questionable
+258,Lockheed Martin,D,Corporate_Blog
+259,Los Angeles Times,A,Questionable
+260,Louisiana Economic Development (.gov),D,Least Biased
+261,Louisiana Illuminator,F,Left-Center
+262,LPL Financial,B,Questionable
+263,Lumen Technologies,D,Least Biased
+264,MacDailyNews,C,Least Biased
+265,MacTrast,C,Questionable
+266,Maginative,C,Pro-Science
+267,Malwarebytes,D,Corporate_Blog
+268,MarketBeat,B,Least Biased
+269,marketech apac,C,Questionable
+270,Marketing Brew,G,Least Biased
+271,Marketing Dive,G,Least Biased
+272,marketpulse.com,B,Pro-Science
+273,markets.businessinsider.com,A,Left-Center
+274,Markets.com,B,Questionable
+275,MarketWatch,B,Right-Center
+276,MarTech,G,Least Biased
+277,Mashable,C,Left
+278,MatthewBall.co,E,Questionable
+279,McNeese State University Athletics,G,Corporate_Blog
+280,Men's Journal,G,Right-Center
+281,Meta Store,D,Corporate_Blog
+282,Mi-3.com.au.,F,Pro-Science
+283,Michigan State University,E,Questionable
+284,Microsoft,D,Corporate_Blog
+285,Microsoft Azure,D,Corporate_Blog
+286,Middle East Eye,F, Left-Center
+287,MIT Technology Review,C,Least Biased
+288,Mitrade,B,Questionable
+289,MobiHealthNews,G,Least Biased
+290,Money Morning,B,Questionable
+291,Money/ US News,A,Questionable
+292,MoneyCheck,B,Questionable
+293,moneyshow.com,B,Questionable
+294,Mongabay,E,Left-Center
+295,MoreThanTheCurve,F,Least Biased
+296,Morning Brew,B,Left-Center
+297,Morningstar,B,Left-Center
+298,Morningstar Asia,B,Questionable
+299,MSDynamicsWorld.com,C,Pro-Science
+300,MSN,A,Left-Center
+301,MSNBC News,A,Questionable
+302,MSSP Alert,C,Pro-Science
+303,MSUToday,E,Pro-Science
+304,MSUToday (Michigan State University),E,Questionable
+305,Music Business Worldwide,G,Pro-Science
+306,MusicRow.com,G,Least Biased
+307,Nasdaq,B,Questionable
+308,National Association of Counties,E,Questionable
+309,Nature,E,Pro-Science
+310,NBC Bay Area,F,Left-Center
+311,NBC News,A,Left-Center
+312,NBC10 Philadelphia,F,Left-Center
+313,NCAA.org,D,Corporate_Blog
+314,NCDOJ (.gov),D,Left
+315,NerdWallet,B,Questionable
+316,New Jersey Monitor,F,Left-Center
+317,New Scientist,E,Pro-Science
+318,New York Magazine,A,Left
+319,New York Post,A,Right-Center
+320,news.stocktradersdaily.com,B,Pro-Science
+321,Newsweek,A,Right-Center
+322,Niantic Labs,D,Corporate_Blog
+323,Nieman Lab,E,Left-Center
+324,North Penn Now,F,Least Biased
+325,Northeastern Global News,E,Questionable
+326,noyb.eu,E,Questionable
+327,NPR,A,Left-Center
+328,NPR (National Public Radio),A,Questionable
+329,NVIDIA Blog,D, Corporate_Blog
+330,NVIDIA Newsroom,D,Least Biased
+331,nwitimes.com,F,Left-Center
+332,NYU Stern,E,Questionable
+333,Oceana,E,Pro-Science
+334,Oceana | Protecting the World's Oceans,E,Left-Center
+335,OCHA,E,Least Biased
+336,OCHA (UN Office for the Coordination of Humanitarian Affairs),E,Questionable
+337,Open Society Foundations,E,Left
+338,Organized Crime and Corruption Reporting Project,E,Questionable
+339,Organized Crime and Corruption Reporting Project | OCCRP,E,Pro-Science
+340,Orlando City,G,Corporate_Blog
+341,patentlyapple.com,C,Questionable
+342,Payments Dive,B,Least Biased
+343,PBS,A,Left-Center
+344,PCMag,C,Left-Center
+345,PIRG,E,Left
+346,PIRG (Public Interest Research Group),E,Questionable
+347,PNAS,E, Pro-Science
+348,PNAS (Proceedings of the National Academy of Sciences),E,Questionable
+349,Politico,A,Left-Center
+350,politico.eu,A,Left-Center
+351,POWER Magazine,G,Pro-Science
+352,Poynter,E,Least Biased
+353,PR Newswire,D,Least Biased
+354,Pratt Institute,E,Questionable
+355,Proactive financial news,B,Questionable
+356,Proactive Investors,B,Questionable
+357,PYMNTS.com,B,Questionable
+358,Quartz,A,Left-Center
+359,Radiology Business,G,Pro-Science
+360,Real Investment Advice,B,Questionable
+361,RealClearEnergy,A, Right-Center
+362,ResearchGate,E,Pro-Science
+363,Rest of World,C,Left-Center
+364,Reuters,A,Least Biased
+365,Roanoke College,E,Questionable
+366,Roll Call,E,Least Biased
+367,RWE,D,Corporate_Blog
+368,San Francisco Chronicle,A, Left
+369,SAP News Center,D,Least Biased
+370,SC Daily Gazette,F, Questionable
+371,Schaeffer's Investment Research,B,Questionable
+372,ScienceDirect.com,E,Least Biased
+373,SCOTUSblog,E,Least Biased
+374,Search Engine Land,C,Pro-Science
+375,Seattle Public Schools,D,Left-Center
+376,SEC.gov,D,Least Biased
+377,Securities.io,B,Questionable
+378,Seeking Alpha,B,Right-Center
+379,Select Committee on the CCP | (.gov),D,Least Biased
+380,Semafor,A,Least Biased
+381,Shacknews,C,Questionable
+382,Sherwood News,F,Least Biased
+383,Shreveport Times,F,Left-Center
+384,SiliconANGLE,C,Pro-Science
+385,simplywall.st,B,Pro-Science
+386,Slate Magazine,A,Questionable
+387,Social Media Today,C,Pro-Science
+388,SpaceNews,G,Least Biased
+389,Spencer Fane,E,Questionable
+390,Stanford Law School,E,Questionable
+391,State of California - Department of Justice (.gov),D,Left
+392,Stateline,E,Left
+393,Statista,E,Least Biased
+394,statnews.com,E,Left-Center
+395,Stephen F. Austin State University,E,Questionable
+396,Stock Titan,G,Questionable
+397,Stockhouse,B,Questionable
+398,StockNews,B,Questionable
+399,Stratechery by Ben Thompson,E,Questionable
+400,StreetInsider,B,Questionable
+401,substack.com,G,Questionable
+402,Supply Chain Dive,G,Least Biased
+403,Sure Dividend,B,Questionable
+404,Sustainability Magazine,G,Pro-Science
+405,Sustainalytics,E,Questionable
+406,tastylive,B,Pro-Science
+407,TBIJ,E,Left-Center
+408,TBIJ (The Bureau of Investigative Journalism),E,Questionable
+409,Tech Policy Press,E,Left-Center
+410,TechCrunch,C,Least Biased
+411,TECHi,C,Questionable
+412,Technology Magazine,C,Least Biased
+413,TechRepublic,C,Least Biased
+414,TechStory,C,Least Biased
+415,Telefónica,D,Corporate_Blog
+416,Tennessee Secretary of State (.gov),D,Right
+417,Tesla Oracle,C,Questionable
+418,Teslarati,C,Questionable
+419,Texas Woman's University,E,Questionable
+420,The Acquirer's Multiple,B,Pro-Science
+421,The American Prospect,E,Left
+422,The Armchair Trader,B,Questionable
+423,The Atlantic,A,Left-Center
+424,The Block,H,Pro-Science
+425,The Bulwark,E,Right-Center
+426,The CFO,B,Least Biased
+427,The Cloudflare Blog,D,Corporate_Blog
+428,The College Today,E,Pro-Science
+429,The Conversation,A,Least Biased
+430,The Cool Down,G,Left-Center
+431,The Crypto Basic,H,Questionable
+432,The Cryptonomist,H,Questionable
+433,The Daily Hodl,H,Questionable
+434,The Drum,G,Pro-Science
+435,The Earthshot Prize,E,Left-Center
+436,The Economic Times,A,Questionable
+437,The Economist,A,Least Biased
+438,The Equation - Union of Concerned Scientists,E,Questionable
+439,The Estée Lauder Companies Inc.,D,Corporate_Blog
+440,The Financial Brand,B,Questionable
+441,The Ghost Howls,C,Questionable
+442,The Globe and Mail,A,Right-Center
+443,The Guardian,A,Left-Center
+444,The Hacker News,C,Least Biased
+445,The Hill,A,Least Biased
+446,The HIPAA Journal,G,Pro-Science
+447,The Hollywood Reporter,G,Left
+448,The Independent Florida Alligator,F,Left-Center
+449,The Information,A,Least Biased
+450,The Intercept,A,Left
+451,The Leadership Conference on Civil and Human Rights,E,Questionable
+452,The Motley Fool,B,Left-Center
+453,The Motley Fool Canada,B,Questionable
+454,The Nature Conservancy,E,Questionable
+455,The New York Times,A,Questionable
+456,The Official Microsoft Blog,D,Corporate_Blog
+457,The Oversight Board,E,Least Biased
+458,The Record from Recorded Future News,C,Least Biased
+459,The Rockefeller Foundation,E,Questionable
+460,The San Francisco Standard,F,Left-Center
+461,The Santa Barbara Independent,F,Left
+462,The Seattle Times,A, Left-Center
+463,The Shortcut | Matt Swider,C,Questionable
+464,The Smart Investor,F,Questionable
+465,The Sun,A,Right
+466,The Texas Tribune,A,Least Biased
+467,The Times of Israel,F,Least Biased
+468,The Tradable,B,Questionable
+469,The University of Oklahoma,E,Questionable
+470,The US Sun,A,Right
+471,The Verge,C,Left-Center
+472,The Washington Post,A,Questionable
+473,The Writers' Guild of Great Britain,E,Questionable
+474,theafricalogistics.com,G,Pro-Science
+475,theregister.com,C,Right-Center
+476,TheStreet,B,Right-Center
+477,TheStreet Pro,B,Pro-Science
+478,ThinkGeoEnergy,G,Pro-Science
+479,Time Magazine,A,Left-Center
+480,Times of India,A,Right-Center
+481,TipRanks,B,Questionable
+482,Tokenist,H,Questionable
+483,Toledo Blade,F,Left-Center
+484,Tom's Guide,C,Pro-Science
+485,Tom's Hardware,C, Pro-Science
+486,topnews.in,F,Right-Center
+487,TradingView,B,Questionable
+488,Transport Topics,G,Right-Center
+489,Trefis,B,Pro-Science
+490,Trellis Group,D,Questionable
+491,Trend Micro,D,Corporate_Blog
+492,Turner Construction Company,D,Corporate_Blog
+493,U.S. Consumer Product Safety Commission (.gov),D,Least Biased
+494,U.S. Senate (.gov),D,Least Biased
+495,UFC.com,G,Corporate_Blog
+496,UNEP - UN Environment Programme,E,Questionable
+497,Unicef,E,Questionable
+498,University of Arizona News,E,Questionable
+499,University of Houston,E,Questionable
+500,UNOS,D,Pro-Science
+501,UNOS (United Network for Organ Sharing),E,Questionable
+502,UploadVR,C,Pro-Science
+503,Urban Land Magazine,G,Pro-Science
+504,USA Today,A,Left-Center
+505,USC Annenberg,E,Left-Center
+506,USC Viterbi School of Engineering,E,Questionable
+507,Utility Dive,G,Least Biased
+508,Value The Markets,B,Questionable
+509,Vanderbilt University,E,Questionable
+510,Variety,G,Left-Center
+511,Vatican News,A,Right-Center
+512,VentureBeat,C,Least Biased
+513,Verfassungsblog,E,Questionable
+514,Vermont Business Magazine,F,Least Biased
+515,VICE,A,Left-Center
+516,Vinson & Elkins LLP,E,Questionable
+517,Virginia Mercury,F,Left-Center
+518,Virginia Tech News,E,Questionable
+519,Visual Capitalist,B,Least Biased
+520,VOA - Voice of America English News,A,Questionable
+521,Vogue Business,G,Left-Center
+522,Wall Street Pit,G,Questionable
+523,Watcher Guru,H,Questionable
+524,West Virginia University,E,Questionable
+525,Westfair Communications,F,Least Biased
+526,WFAA,F,Left-Center
+527,WFYI,F,Least Biased
+528,Windows Blog,D,Corporate_Blog
+529,WIRED,C,Left-Center
+530,wiz.io,D,Corporate_Blog
+531,WJBF,F,Least Biased
+532,World Bank,E,Questionable
+533,World Bank Blogs,E,Questionable
+534,World Nuclear News,G,Least Biased
+535,World Resources Institute,E,Questionable
+536,World Socialist Web Site,A,Left
+537,World Wildlife Fund,E,Left-Center
+538,World Wildlife Fund (WWF),E,Questionable
+539,WPR,F,Left-Center
+540,WSJ,A,Right-Center
+541,WSJ (The Wall Street Journal),A,Questionable
+542,WVTM,F,Right-Center
+543,wwf.org.uk,E,Left-Center
+544,XR Today,C,Pro-Science
+545,XTB.com,B,Questionable
+546,Yahoo,A, Least Biased
+547,Yahoo Finance,A,Questionable
+548,Yarrawonga Chronicle,F,Least Biased
+549,Zacks Investment Research,B,Questionable
+550,ZDNET,C,Left-Center
+551,__-___ _____,G,Questionable
+552,#NAME?,G,Questionable
+553,آي-فون إسلام,G,Questionable
+554,- Center for Democracy and Technology,E,Questionable

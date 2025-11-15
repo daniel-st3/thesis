@@ -1,0 +1,32 @@
+# List of tickers for the project
+tickers:
+  - MSFT
+  - NVDA
+  - AAPL
+  - AMZN
+  - GOOG
+  - GOOGL
+  - META
+  - TSLA
+  - AVGO
+  - NFLX
+
+# Date range for data fetching
+start_date: "2024-01-01"
+end_date: "2025-06-19" # Will be updated to current date by script
+
+# File paths used in the scripts
+paths:
+  # Input data
+  daily_prices: "data/daily_prices.csv"
+  news_bias_features: "data/features/news_bias_features.csv"
+  
+  # Processed data
+  merged_news_prices: "data/features/merged_news_prices.csv"
+  merged_with_features: "data/features/merged_news_prices_with_roll_lag.csv"
+
+  # Model output
+  model_output: "models/xgb_news_bias_model.joblib"
+  
+  # Raw data from APIs
+  raw_news: "data/news_raw"
